@@ -3,7 +3,7 @@
 PURPLE='\033[0;35m'
 NC='\033[0m'
 VERSAO=17
-jar_url=https://github.com/guilhermesnto/jar-individual/raw/main/Nexus/target/Nexus-1.0-jar-with-dependencies.jar
+jar_url="https://github.com/guilhermesnto/jar-individual/raw/main/Nexus/target/Nexus-1.0-jar-with-dependencies.jar"
 jar_nome="Nexus-1.0-jar-with-dependencies.jar"
 
 
